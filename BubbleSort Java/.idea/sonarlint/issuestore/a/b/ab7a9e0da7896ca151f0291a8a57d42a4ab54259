@@ -1,0 +1,19 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰ˆÉ÷üÿÿÿÿ
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(û…¨Šûÿÿÿÿ
+a
+java:S1854+"DRemove this useless assignment to local variable "numerosOrdenados".(ò·—õ8—’…™Æ0
+N	java:S106 "9Replace this use of System.out or System.err by a logger.( ïÁì
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ÞÈÈ‹ùÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(Èú£Ì
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(˜­Ó£ûÿÿÿÿ
+R
+java:S1481+"5Remove this unused "numerosOrdenados" local variable.(ò·—õ8¦’…™Æ0
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(¾ýç ýÿÿÿÿ
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(Èú£Ì8À‡Š™Æ0
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8€€‰™Æ0
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”8€€‰™Æ0
